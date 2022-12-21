@@ -6,7 +6,7 @@
 - Axios
 - Styled components
 
-# Server
+# Server :
 - Node.js
 - Express
 - Mongo.db
